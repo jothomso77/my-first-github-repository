@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here is my first GitHub repository - Lets get started with GitHub
 
-This file has been modified locally.
+The line was manually modified during conflict resolution.
